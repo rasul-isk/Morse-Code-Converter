@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Study\DS Aine\MorseCode\MorseCode\Source.cpp(157,28): warning C4018: '<': signed/unsigned mismatch
+D:\Study\DS Aine\MorseCode\MorseCode\Source.cpp(204,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MorseCode.vcxproj -> D:\Study\DS Aine\MorseCode\Debug\MorseCode.exe
