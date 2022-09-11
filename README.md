@@ -1,6 +1,6 @@
 # Morse-Code-Converter
 
-This repository demonstrates how to translate Morse Code by the use of Binary Tree.
+This repository demonstrates how to translate Morse Code by the use of Binary Tree. This program also includes sound effects and integration of files with Morse codes.
 
 # Main task 
 
