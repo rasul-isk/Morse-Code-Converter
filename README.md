@@ -12,3 +12,7 @@ Write menu driven application to implement convertor which will convert Morse co
 4)	Use stored data and convert it from Morse Code with appropriate sounds effects.
 5)	Display a result.
 
+This is how result of program execution will look like: 
+
+![image](https://user-images.githubusercontent.com/73297277/189513247-11191557-8c55-4872-a2ea-06e3a4080b10.png)
+
